@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="720" viewBox="0 0 1440 720" role="img" aria-labelledby="title desc">
+<title id="title">监修与嵌字的返修分工</title>
+<desc id="desc">蓝色人物是监修者，红色人物是嵌字者。传统流程由监修通过QQ发送截图，在聊天消息中说明问题，嵌字逐条查看、定位和修改。使用工具时，监修在成品图标注并导出revise.txt，嵌字批量导入PSD并对照revise图层修改。</desc>
+<rect width="1440" height="720" fill="white"/>
+<text x="35" y="41" fill="#363636" font-size="27" text-anchor="start" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">传统方式</text>
+<circle cx="95" cy="111" r="18" fill="white" stroke="#3438BC" stroke-width="10"/>
+<polyline points="95,137 91,164 98,188" fill="none" stroke="#3438BC" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="93,149 66,160 55,176 84,187" fill="none" stroke="#3438BC" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="93,154 131,144" fill="none" stroke="#3438BC" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="96,184 69,214" fill="none" stroke="#3438BC" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="96,184 124,212" fill="none" stroke="#3438BC" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="95" y="258" fill="#3438BC" font-size="29" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">监修者</text>
+<text x="95" y="284" fill="#3438BC" font-size="18" text-anchor="middle" font-family="Microsoft YaHei, sans-serif">QC</text>
+<polyline points="212,86 322,84 348,110 348,222 213,221 212,86" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="212,86 322,84 348,110 348,222 213,221" fill="white" stroke="none"/>
+<polygon points="212,86 322,84 348,110 348,222 213,221" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linejoin="round"/>
+<polyline points="322,86 322,110 346,110" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="229,131 324,130 325,199 229,199 229,131" fill="none" stroke="#AAAAAA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="232,196 260,167 276,183 295,162 321,194" fill="none" stroke="#AAAAAA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="257" cy="149" r="8" fill="white" stroke="#AAAAAA" stroke-width="3"/>
+<text x="185" y="161" fill="#AAAAAA" font-size="25" text-anchor="middle" font-family="Microsoft YaHei, sans-serif">+</text>
+<text x="280" y="248" fill="#3438BC" font-size="23" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">发送截图</text>
+<polyline points="462,117 597,118 595,175 502,175 484,193 485,175 462,175 462,117" fill="none" stroke="#AAAAAA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="462,117 597,118 595,175 502,175 484,193 485,175 462,175" fill="white" stroke="none"/>
+<polygon points="462,117 597,118 595,175 502,175 484,193 485,175 462,175" fill="none" stroke="#AAAAAA" stroke-width="3" stroke-linejoin="round"/>
+<text x="529" y="142" fill="#3438BC" font-size="21" text-anchor="middle" font-family="Microsoft YaHei, sans-serif">QQ</text>
+<text x="529" y="164" fill="#3438BC" font-size="17" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">这里漏字</text>
+<text x="530" y="223" fill="#3438BC" font-size="22" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">消息中说明问题</text>
+<polyline points="373,156 427.0,156.0" fill="none" stroke="#AAAAAA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="439,156 427.0,161.04 427.0,150.96" fill="#AAAAAA" stroke="none"/>
+<polyline points="617,156 694.0,156.0" fill="none" stroke="#AAAAAA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="706,156 694.0,161.04 694.0,150.96" fill="#AAAAAA" stroke="none"/>
+<circle cx="789" cy="111" r="18" fill="white" stroke="#F01E2B" stroke-width="10"/>
+<polyline points="789,137 785,164 792,188" fill="none" stroke="#F01E2B" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="787,149 760,160 749,176 778,187" fill="none" stroke="#F01E2B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="787,154 825,144" fill="none" stroke="#F01E2B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="790,184 763,214" fill="none" stroke="#F01E2B" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="790,184 818,212" fill="none" stroke="#F01E2B" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="734" cy="166" r="6" fill="white" stroke="#181818" stroke-width="2"/>
+<circle cx="750" cy="172" r="6" fill="white" stroke="#181818" stroke-width="2"/>
+<polyline points="738,162 759,135" fill="none" stroke="#181818" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="746,167 739,131" fill="none" stroke="#181818" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="838,133 861,138 867,175 843,170 838,133" fill="none" stroke="#181818" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="838,133 861,138 867,175 843,170" fill="white" stroke="none"/>
+<polygon points="838,133 861,138 867,175 843,170" fill="none" stroke="#181818" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="844,144 857,147" fill="none" stroke="#181818" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="789" y="258" fill="#F01E2B" font-size="29" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">嵌字者</text>
+<polyline points="922,86 1032,84 1058,110 1058,222 923,221 922,86" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="922,86 1032,84 1058,110 1058,222 923,221" fill="white" stroke="none"/>
+<polygon points="922,86 1032,84 1058,110 1058,222 923,221" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linejoin="round"/>
+<polyline points="1032,86 1032,110 1056,110" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="939,131 1034,130 1035,199 939,199 939,131" fill="none" stroke="#AAAAAA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="942,196 970,167 986,183 1005,162 1031,194" fill="none" stroke="#AAAAAA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="967" cy="149" r="8" fill="white" stroke="#AAAAAA" stroke-width="3"/>
+<text x="990" y="68" fill="#363636" font-size="20" text-anchor="middle" font-family="Microsoft YaHei, sans-serif">Photoshop</text>
+<circle cx="1044" cy="187" r="17" fill="white" stroke="#181818" stroke-width="3"/>
+<polyline points="1056,199 1073,217" fill="none" stroke="#181818" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="990" y="248" fill="#F01E2B" font-size="23" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">查找位置、修改 PSD</text>
+<polyline points="1103,156 1168.0,156.0" fill="none" stroke="#AAAAAA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1180,156 1168.0,161.04 1168.0,150.96" fill="#AAAAAA" stroke="none"/>
+<polyline points="1215,86 1325,84 1351,110 1351,222 1216,221 1215,86" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1215,86 1325,84 1351,110 1351,222 1216,221" fill="white" stroke="none"/>
+<polygon points="1215,86 1325,84 1351,110 1351,222 1216,221" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linejoin="round"/>
+<polyline points="1325,86 1325,110 1349,110" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1232,131 1327,130 1328,199 1232,199 1232,131" fill="none" stroke="#AAAAAA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1235,196 1263,167 1279,183 1298,162 1324,194" fill="none" stroke="#AAAAAA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1260" cy="149" r="8" fill="white" stroke="#AAAAAA" stroke-width="3"/>
+<text x="1283" y="123" fill="#3438BC" font-size="20" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">修正后</text>
+<text x="1283" y="248" fill="#363636" font-size="22" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">修改后的页面</text>
+<text x="329" y="318" fill="#3438BC" font-size="23" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">发截图、在 QQ 消息中说明问题</text>
+<text x="1007" y="318" fill="#F01E2B" font-size="23" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">逐条查看消息 → 找位置 → 修改</text>
+<text x="35" y="396" fill="#363636" font-size="27" text-anchor="start" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">使用 LabelPlus&amp;Revise / LabelRevise</text>
+<circle cx="95" cy="466" r="18" fill="white" stroke="#3438BC" stroke-width="10"/>
+<polyline points="95,492 91,519 98,543" fill="none" stroke="#3438BC" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="93,504 66,515 55,531 84,542" fill="none" stroke="#3438BC" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="93,509 131,499" fill="none" stroke="#3438BC" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="96,539 69,569" fill="none" stroke="#3438BC" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="96,539 124,567" fill="none" stroke="#3438BC" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="95" y="613" fill="#3438BC" font-size="29" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">监修者</text>
+<text x="95" y="639" fill="#3438BC" font-size="18" text-anchor="middle" font-family="Microsoft YaHei, sans-serif">QC</text>
+<polyline points="212,441 322,439 348,465 348,577 213,576 212,441" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="212,441 322,439 348,465 348,577 213,576" fill="white" stroke="none"/>
+<polygon points="212,441 322,439 348,465 348,577 213,576" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linejoin="round"/>
+<polyline points="322,441 322,465 346,465" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="229,486 324,485 325,554 229,554 229,486" fill="none" stroke="#AAAAAA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="232,551 260,522 276,538 295,517 321,549" fill="none" stroke="#AAAAAA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="257" cy="504" r="8" fill="white" stroke="#AAAAAA" stroke-width="3"/>
+<text x="243" y="474" fill="#F01E2B" font-size="22" text-anchor="middle" font-family="Microsoft YaHei, sans-serif">#1</text>
+<polyline points="261,469 292.3255621932394,512.5077252683881" fill="none" stroke="#F01E2B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="297,519 289.5988068059624,514.4709891472276 295.05231758051644,510.54446138954864" fill="#F01E2B" stroke="none"/>
+<text x="185" y="516" fill="#AAAAAA" font-size="25" text-anchor="middle" font-family="Microsoft YaHei, sans-serif">+</text>
+<text x="280" y="603" fill="#3438BC" font-size="23" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">在成品图上标注</text>
+<polyline points="477,440 558,438 584,464 584,567 478,566 477,440" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="477,440 558,438 584,464 584,567 478,566" fill="white" stroke="none"/>
+<polygon points="477,440 558,438 584,464 584,567 478,566" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linejoin="round"/>
+<polyline points="558,440 558,464 582,464" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="492" y="472" fill="#F01E2B" font-size="22" text-anchor="start" font-family="Microsoft YaHei, sans-serif">1</text>
+<text x="518" y="472" fill="#3438BC" font-size="18" text-anchor="start" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">问题</text>
+<text x="492" y="510" fill="#F01E2B" font-size="22" text-anchor="start" font-family="Microsoft YaHei, sans-serif">2</text>
+<text x="518" y="510" fill="#3438BC" font-size="18" text-anchor="start" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">说明</text>
+<text x="530" y="603" fill="#3438BC" font-size="22" text-anchor="middle" font-family="Microsoft YaHei, sans-serif">revise.txt</text>
+<polyline points="373,511 427.0,511.0" fill="none" stroke="#AAAAAA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="439,511 427.0,516.04 427.0,505.96" fill="#AAAAAA" stroke="none"/>
+<polyline points="617,511 694.0,511.0" fill="none" stroke="#AAAAAA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="706,511 694.0,516.04 694.0,505.96" fill="#AAAAAA" stroke="none"/>
+<circle cx="789" cy="466" r="18" fill="white" stroke="#F01E2B" stroke-width="10"/>
+<polyline points="789,492 785,519 792,543" fill="none" stroke="#F01E2B" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="787,504 760,515 749,531 778,542" fill="none" stroke="#F01E2B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="787,509 825,499" fill="none" stroke="#F01E2B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="790,539 763,569" fill="none" stroke="#F01E2B" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="790,539 818,567" fill="none" stroke="#F01E2B" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="734" cy="521" r="6" fill="white" stroke="#181818" stroke-width="2"/>
+<circle cx="750" cy="527" r="6" fill="white" stroke="#181818" stroke-width="2"/>
+<polyline points="738,517 759,490" fill="none" stroke="#181818" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="746,522 739,486" fill="none" stroke="#181818" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="838,488 861,493 867,530 843,525 838,488" fill="none" stroke="#181818" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="838,488 861,493 867,530 843,525" fill="white" stroke="none"/>
+<polygon points="838,488 861,493 867,530 843,525" fill="none" stroke="#181818" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="844,499 857,502" fill="none" stroke="#181818" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="789" y="613" fill="#F01E2B" font-size="29" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">嵌字者</text>
+<polyline points="922,441 1032,439 1058,465 1058,577 923,576 922,441" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="922,441 1032,439 1058,465 1058,577 923,576" fill="white" stroke="none"/>
+<polygon points="922,441 1032,439 1058,465 1058,577 923,576" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linejoin="round"/>
+<polyline points="1032,441 1032,465 1056,465" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="939,486 1034,485 1035,554 939,554 939,486" fill="none" stroke="#AAAAAA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="942,551 970,522 986,538 1005,517 1031,549" fill="none" stroke="#AAAAAA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="967" cy="504" r="8" fill="white" stroke="#AAAAAA" stroke-width="3"/>
+<polyline points="907,522 1021,522 1021,549 907,549 907,522" fill="none" stroke="#F01E2B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="907,522 1021,522 1021,549 907,549" fill="white" stroke="none"/>
+<polygon points="907,522 1021,522 1021,549 907,549" fill="none" stroke="#F01E2B" stroke-width="2" stroke-linejoin="round"/>
+<text x="964" y="541" fill="#F01E2B" font-size="18" text-anchor="middle" font-family="Microsoft YaHei, sans-serif">revise</text>
+<text x="990" y="423" fill="#363636" font-size="20" text-anchor="middle" font-family="Microsoft YaHei, sans-serif">Photoshop</text>
+<text x="990" y="603" fill="#F01E2B" font-size="23" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">导入后对照标注修改</text>
+<polyline points="1103,511 1168.0,511.0" fill="none" stroke="#AAAAAA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1180,511 1168.0,516.04 1168.0,505.96" fill="#AAAAAA" stroke="none"/>
+<polyline points="1215,441 1325,439 1351,465 1351,577 1216,576 1215,441" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1215,441 1325,439 1351,465 1351,577 1216,576" fill="white" stroke="none"/>
+<polygon points="1215,441 1325,439 1351,465 1351,577 1216,576" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linejoin="round"/>
+<polyline points="1325,441 1325,465 1349,465" fill="none" stroke="#AAAAAA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1232,486 1327,485 1328,554 1232,554 1232,486" fill="none" stroke="#AAAAAA" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1235,551 1263,522 1279,538 1298,517 1324,549" fill="none" stroke="#AAAAAA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1260" cy="504" r="8" fill="white" stroke="#AAAAAA" stroke-width="3"/>
+<text x="1283" y="478" fill="#3438BC" font-size="20" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">修正后</text>
+<text x="1283" y="603" fill="#363636" font-size="22" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">修改后的页面</text>
+<text x="329" y="673" fill="#3438BC" font-size="23" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">标注位置、填写说明、导出返修单</text>
+<text x="1007" y="673" fill="#F01E2B" font-size="23" text-anchor="middle" font-family="KaiTi, STKaiti, Microsoft YaHei, serif">批量导入 PSD → 对照 revise 图层修改</text>
+<polyline points="35,345 1393,345" fill="none" stroke="#E4E4E4" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
