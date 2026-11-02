@@ -38,7 +38,7 @@ try {
     & node $TypeScriptPath -p $reviseConfigPath
     if ($LASTEXITCODE -ne 0) { throw 'Revise Photoshop build failed.' }
     $reviseUtf8 = New-Object System.Text.UTF8Encoding($true)
-    $reviseNotice = "#target photoshop`r`n/*! LabelRevise 0.6.1. Derived from LabelPlus QC 0.5.1; original copyright and license notices retained. */`r`n"
+    $reviseNotice = "#target photoshop`r`n/*! LabelRevise 1.0. Derived from LabelPlus QC 0.5.1; original copyright and license notices retained. */`r`n"
     $reviseJson = [IO.File]::ReadAllText((Join-Path $revisePs 'src/jam/jamJSON.jsxinc'))
     $reviseCode = [IO.File]::ReadAllText((Join-Path $reviseBuild 'revise.js'))
     [IO.File]::WriteAllText((Join-Path $reviseBuild 'LabelRevise.jsx'), $reviseNotice + $reviseJson + "`r`n" + $reviseCode, $reviseUtf8)

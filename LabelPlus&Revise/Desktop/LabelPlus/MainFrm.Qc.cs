@@ -52,7 +52,7 @@ namespace LabelPlus
 
         void UpdateQcTitle()
         {
-            Text = qcActive ? "LabelPlus&Revise 0.6.1 · 监修 · " +
+            Text = qcActive ? "LabelPlus&Revise 1.0 · 监修 · " +
                 (qcWorkspace.Dirty ? "* " : "") +
                 (string.IsNullOrEmpty(qcWorkspace.FilePath) ? "未命名返修单" : Path.GetFileName(qcWorkspace.FilePath))
                 : FROM_TITLE + (wsp.HavePath ? wsp.Filename : "");

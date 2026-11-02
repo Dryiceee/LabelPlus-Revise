@@ -51,7 +51,7 @@ namespace LabelPlus
 
         void UpdateTitle()
         {
-            Text = "LabelRevise 0.6.1 · " + (qcWorkspace.Dirty ? "* " : "") +
+            Text = "LabelRevise 1.0 · " + (qcWorkspace.Dirty ? "* " : "") +
                 (string.IsNullOrEmpty(qcWorkspace.FilePath) ? "未命名返修单" : Path.GetFileName(qcWorkspace.FilePath));
         }
 

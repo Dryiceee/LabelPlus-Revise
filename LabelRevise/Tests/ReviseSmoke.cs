@@ -51,7 +51,7 @@ class ReviseSmoke
                 var issues = (ListBox)Field(workspace, "issues");
                 Check(form.Controls.Count == 1 && form.Controls[0] == workspace && workspace.Visible,
                     "standalone window starts directly in the existing revise workspace");
-                Check(form.Text.IndexOf("LabelRevise 0.6.1") >= 0 && workspace.Project.Pages.Count == 2,
+                Check(form.Text.IndexOf("LabelRevise 1.0") >= 0 && workspace.Project.Pages.Count == 2,
                     "command-line repair sheet loaded by packaged standalone shell");
                 Check(typeof(MainFrm).Assembly.GetType("LabelPlus.Workspace") == null &&
                     typeof(MainFrm).Assembly.GetType("LabelPlus.PicView") == null,

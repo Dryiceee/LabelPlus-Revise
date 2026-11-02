@@ -9,7 +9,7 @@ try {
     & python flatten_jsx.py build/app.js 'build/LabelPlus&Revise.jsx' -I build src
     if ($LASTEXITCODE -ne 0) { throw 'JSX flatten failed' }
     $qcEncoding = New-Object System.Text.UTF8Encoding($true)
-    $qcNotice = "#target photoshop`r`n/*! LabelPlus&Revise 0.6.1, based on PS-Script v1.7.4 (compound paths). GPL-2.0; see LICENSE.txt and third-party notices. */`r`n"
+    $qcNotice = "#target photoshop`r`n/*! LabelPlus&Revise 1.0, based on PS-Script v1.7.4 (compound paths). GPL-2.0; see LICENSE.txt and third-party notices. */`r`n"
     $qcCombined = [IO.File]::ReadAllText((Join-Path $PSScriptRoot 'build/LabelPlus&Revise.jsx'))
     [IO.File]::WriteAllText((Join-Path $PSScriptRoot 'build/LabelPlus&Revise.jsx'), $qcNotice + $qcCombined, $qcEncoding)
     $qcJson = [IO.File]::ReadAllText((Join-Path $PSScriptRoot 'src/jam/jamJSON.jsxinc'))

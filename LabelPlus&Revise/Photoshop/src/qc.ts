@@ -266,7 +266,7 @@ export function findQcOutputFolder(file: File): Folder | null {
     return candidate.exists ? candidate : null;
 }
 export function runQcDialog(): void {
-    let dialog = new Window("dialog", "LabelPlus&Revise 0.6.1 · 返修导入");
+    let dialog = new Window("dialog", "LabelPlus&Revise 1.0 · 返修导入");
     dialog.orientation = "column"; dialog.alignChildren = "fill";
     dialog.add("statictext", undefined, "导入箭头、编号和说明，合并为普通 revise 图层。PSD 保持打开，由你手动保存。");
     let fileRow = dialog.add("group"); fileRow.add("statictext", undefined, "返修单：");

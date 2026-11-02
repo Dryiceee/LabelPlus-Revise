@@ -1,4 +1,4 @@
-# LabelRevise 0.6.1
+# LabelRevise 1.0
 
 仅保留返修标注与 Photoshop 返修导入的独立版本。日期：2026-11-02。
 

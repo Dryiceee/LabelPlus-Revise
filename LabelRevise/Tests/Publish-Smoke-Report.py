@@ -7,9 +7,9 @@ from PIL import Image
 project = Path(__file__).resolve().parents[1]
 workspace = project.parent.parent
 run = Path(json.loads((project / 'Tests/current-run.json').read_text(encoding='utf-8'))['run'])
-version = '0.6.1'
+version = '1.0'
 out = workspace / 'outputs'
-package = out / f'LabelPlus-Revise-{version}'
+package = out / f'LabelRevise-{version}'
 native = json.loads((run / 'photoshop-result.json').read_text(encoding='utf-8-sig'))
 desktop = (run / 'desktop-result.txt').read_text()
 assert native['ok'] and native['checks'] == 11
@@ -38,7 +38,7 @@ validation = {
               'PS-Script/LabelRevise.jsx': sha(package / 'PS-Script/LabelRevise.jsx')}
 }
 (project / 'VALIDATION.json').write_text(json.dumps(validation, ensure_ascii=False, indent=2), encoding='utf-8')
-report = f'''# LabelPlus Revise {version} 流程测试报告
+report = f'''# LabelRevise {version} 流程测试报告
 
 日期：2026-11-02。结果：修复后通过。
 
@@ -63,10 +63,10 @@ report = f'''# LabelPlus Revise {version} 流程测试报告
 
 测试使用单独的合成图片和 PSD，没有使用真实漫画工程。桌面运行实际打包程序集，通过现有事件处理模拟鼠标和按键。PS 运行打包脚本，仅抑制末尾自动弹出文件选择窗口的一行，再调用原导入函数。文件选择窗口的逐项点击未覆盖。
 
-结果对应文件的 SHA-256 记录在源码中的 VALIDATION.json。修复后的运行文件与最初发布的 0.6 不同，请使用 0.6.1。
+结果对应文件的 SHA-256 记录在源码中的 VALIDATION.json。修复后的运行文件与最初发布的 0.6 不同，请使用 {version}。
 '''
 (project / 'VALIDATION.md').write_text(report, encoding='utf-8')
-(out / f'LabelPlus-Revise-{version}-测试报告.md').write_text(report, encoding='utf-8')
-shutil.copy2(run / 'desktop.png', out / f'LabelPlus-Revise-{version}-桌面测试.png')
-shutil.copy2(run / 'photoshop-preview.png', out / f'LabelPlus-Revise-{version}-PS测试.png')
+(out / f'LabelRevise-{version}-测试报告.md').write_text(report, encoding='utf-8')
+shutil.copy2(run / 'desktop.png', out / f'LabelRevise-{version}-桌面测试.png')
+shutil.copy2(run / 'photoshop-preview.png', out / f'LabelRevise-{version}-PS测试.png')
 print(json.dumps(validation, ensure_ascii=False))

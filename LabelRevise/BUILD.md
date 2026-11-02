@@ -1,4 +1,4 @@
-# LabelRevise 0.6.1 构建说明
+# LabelRevise 1.0 构建说明
 
 此目录是独立的删减版源码，构建时不引用旧 LabelPlus 的翻译工作区或旧 PS 译文导入项目。
 

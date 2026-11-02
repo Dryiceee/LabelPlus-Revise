@@ -5,7 +5,7 @@ import shutil
 
 project = Path(__file__).resolve().parents[1]
 workspace = project.parent.parent
-package = workspace / 'outputs/LabelRevise-0.6.1'
+package = workspace / 'outputs/LabelRevise-1.0'
 run = workspace / 'work/qa' / ('revise-smoke-' + datetime.now().strftime('%Y%m%d-%H%M%S'))
 run.mkdir(parents=True)
 for name in ['LabelRevise.exe', 'LabelRevise.exe.config']:
