@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es3",
+    "lib": ["es5"],
+    "strictNullChecks": true,
+    "types": ["./node_modules/photoshop.d.ts/dist/cc"],
+    "outFile": "../build/revise.js"
+  },
+  "files": ["src/main.ts"]
+}

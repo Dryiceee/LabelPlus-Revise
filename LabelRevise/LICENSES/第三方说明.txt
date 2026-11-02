@@ -1,0 +1,7 @@
+本版本由 LabelPlus v1.3.0、PS-Script v1.7.4 及已有 QC 改动删减而来。
+上游 LabelPlus 与 PS-Script 的 GPL 许可证全文保留在同目录。
+jamJSON 4.5 作者：Michel MARIANI，Copyright 2011-2016。
+jamJSON 原始 GPL-3.0-or-later 版权和许可声明完整保留在源码 Photoshop/src/jam/jamJSON.jsxinc 和合并后的 LabelPlus_Revise.jsx 中。
+其许可证链接：https://www.gnu.org/licenses/gpl-3.0.html
+本版没有打包 xtools、译文导入模块或相关模板。
+修改后的完整对应源码和构建说明位于软件包的 源码.zip。

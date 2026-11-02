@@ -1,0 +1,17 @@
+{
+  "version": "0.6.1",
+  "date": "2026-11-02",
+  "desktopChecks": 16,
+  "desktopDpi": 192,
+  "photoshopChecks": 11,
+  "photoshopVersion": "27.11.0",
+  "fixtureDpi": 300,
+  "arrowTargetPixelChecks": 3,
+  "transparentPixelLayerVerified": true,
+  "firstImportMs": 4779,
+  "scope": "Real standalone WinForms window with event-driven input; shipped JSX core, automatic picker call suppressed",
+  "files": {
+    "LabelPlusRevise.exe": "3dd5d611f8e87d230474b49b9722f4b8084dc6bfdb2b325906beae74e3ea79cf",
+    "PS-Script/LabelPlus_Revise.jsx": "f82ea1c40ffd82b6cf071a5d5cde746ec3fb15d2dfd06ac75bfffabb57162f50"
+  }
+}
